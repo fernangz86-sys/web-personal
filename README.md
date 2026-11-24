@@ -76,3 +76,4 @@ La cabecera incluye un botón para alternar entre tema oscuro (azul noche) y tem
 
 La escala tipográfica se ha aumentado para facilitar la lectura en pantallas de escritorio y móviles.
 # web-personal
+# web-personal
